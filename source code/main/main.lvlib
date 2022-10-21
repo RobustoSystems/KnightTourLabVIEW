@@ -1,0 +1,118 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<Library LVVersion="20008000">
+	<Property Name="Alarm Database Computer" Type="Str">localhost</Property>
+	<Property Name="Alarm Database Name" Type="Str">C__Program_Files__x86__National_Instruments_LabVIEW_2016_data</Property>
+	<Property Name="Alarm Database Path" Type="Str">C:\Program Files (x86)\National Instruments\LabVIEW 2016\data</Property>
+	<Property Name="Data Lifespan" Type="UInt">3650</Property>
+	<Property Name="Database Computer" Type="Str">localhost</Property>
+	<Property Name="Database Name" Type="Str">C__Program_Files__x86__National_Instruments_LabVIEW_2016_data</Property>
+	<Property Name="Database Path" Type="Str">C:\Program Files (x86)\National Instruments\LabVIEW 2016\data</Property>
+	<Property Name="Enable Alarms Logging" Type="Bool">true</Property>
+	<Property Name="Enable Data Logging" Type="Bool">true</Property>
+	<Property Name="NI.Lib.Icon" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!)^!!!*Q(C=\&gt;7R&lt;&gt;N!&amp;-&lt;RDU%+NU)#J!X5J5DVL;!2IB8?#GL.4CO]%;S5+&lt;8#7U%L;!8[T_0*-#,9,OQ%#7$3*V0@]&gt;\^2&amp;)HK7UXUE&gt;.,WV[&gt;LPU4UO&lt;XU\NY0@_;?F&lt;_K@L`LZ@$K\\FY(4^%2^[@(YK`[H`;`[_/`&lt;_`&lt;@&lt;\=P@AH__0&gt;A;.^%7N'3&amp;D1PSU72&amp;XG2&amp;XG2&amp;XG3*XG3*XG3*XG1"XG1"XG1"\H*47ZSEZP=FQ7$8/1CF^PK55R?4&amp;15,1I5*U.2]6*Y#E`B+4S]6?%J0)7H]"1?4F(B+4S&amp;J`!5(I;J]"3?QF.Y#A_FGK4;4I[H]&amp;"?C3@R**\%EXC95IEH!334*974)D#5&gt;#9(C3@R*"Y/F8A34_**0)G(&lt;C7?R*.Y%E`C95C\+NEU]U[/BT)+0)%H]!3?Q%.J":\!%XA#4_"B/A7?Q"-AAAG$YB!5$!J/#.Y%HM$$0Q7?Q".Y!E`AI;P&gt;I7B8:N&lt;-/TE?YT%?YT%?Y['%D-&gt;YD-&gt;YD)?S-B\D-2\D-2[GEP%9D`%9C*G5[77+G9(G*"-9$X`N;8'\3^EE&lt;LP[&lt;VV\5.5@105(3`W"58]1V'_Q_IV4PS(K&amp;VL^!KJ@'050L0Z"V)(K%[M86$^2:VZ0N#0N1.P4&gt;L1N&lt;5.&lt;UV&lt;TU$=_]8Q_[X1[[8A][H!Y;,`@;\@&lt;;&lt;P&gt;;L0:;,V?;\6;03Q$8^E@&amp;I2F8&lt;LF?0TU&lt;2B`@2`'(T_(]=P&gt;-([_'_&lt;],`Q_`Q.LIT\I]2R=IXOA$D1G!!!!!!</Property>
+	<Property Name="NI.Lib.SourceVersion" Type="Int">536903680</Property>
+	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
+	<Property Name="NI.LV.All.SourceOnly" Type="Bool">false</Property>
+	<Property Name="NI_IconEditor" Type="Str">49 56 48 49 56 48 48 49 13 0 0 0 0 1 23 21 76 111 97 100 32 38 32 85 110 108 111 97 100 46 108 118 99 108 97 115 115 0 0 1 0 0 0 0 0 9 0 0 13 38 1 100 1 100 80 84 72 48 0 0 0 4 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 1 15 13 76 97 121 101 114 46 108 118 99 108 97 115 115 0 0 1 0 0 0 0 0 7 0 0 12 182 0 0 0 0 0 0 0 0 0 0 12 158 0 40 0 0 12 152 0 0 12 0 0 0 0 0 0 32 0 32 0 24 0 0 0 0 0 255 255 255 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 0 0 0 0 0 0 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 0 0 0 0 0 0 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 0 0 0 0 0 0 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 0 0 0 0 0 0 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 0 0 0 0 0 0 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 0 0 0 0 0 0 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 246 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 4 70 105 108 108 100 1 0 2 0 0 0 4 77 97 105 110 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 11 83 109 97 108 108 32 70 111 110 116 115 0 1 9 1 1
+
+</Property>
+	<Property Name="OdbcAlarmLoggingTableName" Type="Str">NI_ALARM_EVENTS</Property>
+	<Property Name="OdbcBooleanLoggingTableName" Type="Str">NI_VARIABLE_BOOLEAN</Property>
+	<Property Name="OdbcConnectionRadio" Type="UInt">0</Property>
+	<Property Name="OdbcConnectionString" Type="Str"></Property>
+	<Property Name="OdbcCustomStringText" Type="Str"></Property>
+	<Property Name="OdbcDoubleLoggingTableName" Type="Str">NI_VARIABLE_NUMERIC</Property>
+	<Property Name="OdbcDSNText" Type="Str"></Property>
+	<Property Name="OdbcEnableAlarmLogging" Type="Bool">false</Property>
+	<Property Name="OdbcEnableDataLogging" Type="Bool">false</Property>
+	<Property Name="OdbcPassword" Type="Str"></Property>
+	<Property Name="OdbcReconnectPeriod" Type="UInt">0</Property>
+	<Property Name="OdbcReconnectTimeUnit" Type="Int">0</Property>
+	<Property Name="OdbcStringLoggingTableName" Type="Str">NI_VARIABLE_STRING</Property>
+	<Property Name="OdbcUsername" Type="Str"></Property>
+	<Property Name="SaveStatePeriod" Type="UInt">0</Property>
+	<Property Name="Serialized ACL" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!A1%!!!@````]!!".V&lt;H.J:WZF:#"C?82F)'&amp;S=G&amp;Z!!%!!1!!!!A)!!!!#!!!!!!!!!!</Property>
+	<Property Name="Use Data Logging Database" Type="Bool">true</Property>
+	<Item Name="_private" Type="Folder">
+		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
+		<Item Name="app icon" Type="Folder">
+			<Item Name="Knight Tour icon v1.ico" Type="Document" URL="../app icon/Knight Tour icon v1.ico"/>
+		</Item>
+		<Item Name="data structures" Type="Folder">
+			<Item Name="app_data.lvlib" Type="Library" URL="../app_data/app_data.lvlib"/>
+			<Item Name="Module Data--cluster.ctl" Type="VI" URL="../Module Data--cluster.ctl"/>
+			<Item Name="report format.ctl" Type="VI" URL="../report format.ctl"/>
+			<Item Name="starting_square.ctl" Type="VI" URL="../starting_square.ctl"/>
+		</Item>
+		<Item Name="error handlers" Type="Folder">
+			<Item Name="error_handler_display_loops.vi" Type="VI" URL="../error_handler_display_loops.vi"/>
+		</Item>
+		<Item Name="GUIs" Type="Folder">
+			<Item Name="about GUI" Type="Folder">
+				<Item Name="about GUI.vi" Type="VI" URL="../about GUI.vi"/>
+			</Item>
+			<Item Name="dialogues" Type="Folder">
+				<Item Name="dialogue--exit_app.vi" Type="VI" URL="../dialogue--exit_app.vi"/>
+				<Item Name="dialogue--there is no log file.vi" Type="VI" URL="../dialogue--there is no log file.vi"/>
+			</Item>
+		</Item>
+		<Item Name="MHL queue" Type="Folder">
+			<Item Name="Check Loop Error.vi" Type="VI" URL="../Check Loop Error.vi"/>
+			<Item Name="Dequeue MHL Queue.vi" Type="VI" URL="../Dequeue MHL Queue.vi"/>
+			<Item Name="Enqueue MHL Queue-array.vi" Type="VI" URL="../Enqueue MHL Queue-array.vi"/>
+			<Item Name="Enqueue MHL Queue-single.vi" Type="VI" URL="../Enqueue MHL Queue-single.vi"/>
+			<Item Name="Enqueue--config_buttons.vi" Type="VI" URL="../Enqueue--config_buttons.vi"/>
+			<Item Name="Enqueue--exit_app.vi" Type="VI" URL="../Enqueue--exit_app.vi"/>
+			<Item Name="Enqueue--update_complete_tour_text_indicator.vi" Type="VI" URL="../Enqueue--update_complete_tour_text_indicator.vi"/>
+			<Item Name="Error Handler for MHL and EHL.vi" Type="VI" URL="../Error Handler for MHL and EHL.vi"/>
+			<Item Name="Obtain MHL Queue.vi" Type="VI" URL="../Obtain MHL Queue.vi"/>
+			<Item Name="update_completed_tour_text_indicator arguments.ctl" Type="VI" URL="../update_completed_tour_text_indicator arguments.ctl"/>
+		</Item>
+		<Item Name="routines" Type="Folder">
+			<Item Name="check" Type="Folder">
+				<Item Name="check tour is continuous.vi" Type="VI" URL="../check tour is continuous.vi"/>
+			</Item>
+			<Item Name="config_buttons" Type="Folder">
+				<Item Name="config--display_next and display_previous.vi" Type="VI" URL="../config--display_next and display_previous.vi"/>
+				<Item Name="config_buttons--enum.ctl" Type="VI" URL="../config_buttons--enum.ctl"/>
+			</Item>
+			<Item Name="convert" Type="Folder">
+				<Item Name="convert seconds to h min string.vi" Type="VI" URL="../convert seconds to h min string.vi"/>
+				<Item Name="convert--tour to string (chessboard format).vi" Type="VI" URL="../convert--tour to string (chessboard format).vi"/>
+				<Item Name="convert--tour to string (minimal format).vi" Type="VI" URL="../convert--tour to string (minimal format).vi"/>
+				<Item Name="create completed tour report (detailed).vi" Type="VI" URL="../create completed tour report (detailed).vi"/>
+				<Item Name="create completed tour report (minimal).vi" Type="VI" URL="../create completed tour report (minimal).vi"/>
+				<Item Name="create completed tour report.vi" Type="VI" URL="../create completed tour report.vi"/>
+			</Item>
+			<Item Name="Misc" Type="Folder">
+				<Item Name="convert--tour to string (in rows).vi" Type="VI" URL="../convert--tour to string (in rows).vi"/>
+				<Item Name="draw current_tour on chessboard.vi" Type="VI" URL="../draw current_tour on chessboard.vi"/>
+				<Item Name="get average move speed.vi" Type="VI" URL="../get average move speed.vi"/>
+				<Item Name="get average tour finding speed.vi" Type="VI" URL="../get average tour finding speed.vi"/>
+			</Item>
+		</Item>
+		<Item Name="run-time menu" Type="Folder">
+			<Item Name="run-time menu.rtm" Type="Document" URL="../run-time menu.rtm"/>
+		</Item>
+		<Item Name="stopwatch_timer" Type="Folder">
+			<Item Name="stopwatch_timer.lvlib" Type="Library" URL="../stopwatch_timer/stopwatch_timer.lvlib"/>
+		</Item>
+		<Item Name="support folder" Type="Folder">
+			<Item Name="constant--support folder name.vi" Type="VI" URL="../constant--support folder name.vi"/>
+		</Item>
+		<Item Name="templates" Type="Folder">
+			<Item Name="template--new VI--no error case.vi" Type="VI" URL="../template--new VI--no error case.vi"/>
+			<Item Name="template--new VI--with error case.vi" Type="VI" URL="../template--new VI--with error case.vi"/>
+		</Item>
+		<Item Name="testers" Type="Folder">
+			<Item Name="test--chessboard GUI objects.vi" Type="VI" URL="../test--chessboard GUI objects.vi"/>
+		</Item>
+	</Item>
+	<Item Name="API" Type="Folder">
+		<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+		<Item Name="Enqueue--button_press_pause.vi" Type="VI" URL="../Enqueue--button_press_pause.vi"/>
+		<Item Name="Enqueue--complete_tour_found.vi" Type="VI" URL="../Enqueue--complete_tour_found.vi"/>
+		<Item Name="get support folder path.vi" Type="VI" URL="../get support folder path.vi"/>
+	</Item>
+	<Item Name="main.vi" Type="VI" URL="../main.vi"/>
+</Library>
